@@ -1,7 +1,15 @@
 body {
-    background-color: red;
+    background-image: url(https://images.unsplash.com/photo-1523821741446-edb2b68bb7a0?ixlib=rb-1.2.1&w=1000&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
 }
+
 
 .col-lg-8 {
     background-color: whitesmoke;
+}
+
+#aboutImg {
+    float: left;
 }
