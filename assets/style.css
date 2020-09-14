@@ -1,2 +1,7 @@
+body {
+    background-color: red;
+}
 
-
+.col-lg-8 {
+    background-color: whitesmoke;
+}
