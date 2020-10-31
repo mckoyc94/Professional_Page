@@ -6240,6 +6240,7 @@ button.bg-success:focus {
 
 .bg-info {
   background-color: #17a2b8 !important;
+  background: linear-gradient(grey,#17a2b8, black);
 }
 
 a.bg-info:hover, a.bg-info:focus,
@@ -10276,7 +10277,7 @@ body {
 
 .about-section {
   padding-top: 10rem;
-  background: linear-gradient(to bottom, #000000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
+  background: linear-gradient(black, grey);
 }
 .about-section p {
   margin-bottom: 5rem;
@@ -10288,6 +10289,11 @@ body {
 .projects-section .featured-text {
   padding: 2rem;
 }
+
+#pokeAnchor {
+  color: whitesmoke;
+}
+
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
