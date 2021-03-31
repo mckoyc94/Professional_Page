@@ -10294,6 +10294,19 @@ body {
   color: whitesmoke;
 }
 
+#mainAnchorRight {
+  color: whitesmoke;
+  float: right;
+}
+
+.linkRight {
+  float: right;
+}
+
+.linkLeft {
+  float: left;
+}
+
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
